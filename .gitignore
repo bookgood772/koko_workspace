@@ -71,3 +71,14 @@ local.properties
 .sts4-cache/
 
 # End of https://www.gitignore.io/api/eclipse
+
+
+### 사용자 설정 시작 ###
+
+/target/
+
+# Servers #
+Servers/
+
+### 사용자 설정 끝 ###
+
